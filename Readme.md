@@ -2,13 +2,10 @@ Distributed by: Spookyto
 Installez la version 3 de Python.
 
 C'est un projet simple pour débutant. 
-Afin de vous améliorer . Vous apprendrez de nouvelles compétences dans ce code. 
-Le projet sera productif pour vous. Téléchargez le projet et utilisez le code par vous-même.
+Afin de vous améliorer .
+Téléchargez le projet et utilisez le code par vous-même.
 
 ![img exemple](https://cdn.discordapp.com/attachments/919298922151829564/962137071290576906/Exemple.png)
-
-
-
 
 **INSTALLATION**
 Téléchargez le projet.
