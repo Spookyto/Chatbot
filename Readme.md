@@ -8,6 +8,7 @@ Téléchargez le projet et utilisez le code par vous-même.
 ![img exemple](https://cdn.discordapp.com/attachments/919298922151829564/962137071290576906/Exemple.png)
 
 **INSTALLATION**
+
 Téléchargez le projet.
 Extrayez le fichier zip et obtenez le code.
 Configurez un éditeur ou un IDE. ( vs code , pycharm , anaconda )
